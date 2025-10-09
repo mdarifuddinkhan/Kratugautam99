@@ -92,6 +92,10 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 <!--<a href="https://kratu-gautam-portfolio.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="portfolio" height="35" width="45" /></a>
 <a href="https://www.leetcode.com/kratu_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>-->
 <a href="https://www.kaggle.com/kratugautam" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
+<a href="https://hub.docker.com/repositories/kratuzen" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" />
+</a>
+
 </p>
 
 ---
