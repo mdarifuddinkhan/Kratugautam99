@@ -61,11 +61,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
   <a href="https://mlflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" alt="mlflow" width="70" height="35"/></a> 
   <a href="https://www.dagshub.com/" target="_blank"><img src="https://cdn.brandfetch.io/id0ycwXVhg/w/300/h/300/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758618528632" alt="dagshub" width="45" height="45"/></a> 
   <a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/ChristianMallma/langchain-and-langgraph-course/raw/main/static/LangChain-logo.svg" alt="LangChain" width="90" height="50"/></a> 
-  <a href="https://www.crewai.com/" target="_blank">
-  <img src="https://github.com/crewAIInc/crewAI-tools/raw/main/assets/crewai_logo.png" alt="crewai" width="90" height="45"/>
-</a>
-<a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="90" height="45"/></a>
-</p>
+<a href="https://www.crewai.com/" target="_blank"><img src="https://github.com/crewAIInc/crewAI-tools/raw/main/assets/crewai_logo.png" alt="crewai" width="90" height="45"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/></a>
 
 
 ---
